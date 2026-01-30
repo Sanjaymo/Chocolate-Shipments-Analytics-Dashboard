@@ -1,0 +1,72 @@
+# Power BI files
+*.pbix.tmp
+*.pbix~
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Personal data or sensitive information
+*credentials*
+*password*
+*secret*
+
+# Node modules (if using any web components)
+node_modules/
+
+# Python cache (if using Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output directories
+output/
+exports/
